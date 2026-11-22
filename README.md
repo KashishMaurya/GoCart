@@ -33,6 +33,14 @@
 - **State Management:** Redux Toolkit
 - **DataBase:** Prisma + Supabase 
 
+---
+
+## Routes
+
+- / : root route, view listed products, prices, coupon code, reviews, buy, add to cart.
+- /admin : admin panel, view graphs, create coupon, manage and approve stores.
+- /store : seller dashboard, add product, manage product, view orders.
+
 ## 🚀 Getting Started <a name="-getting-started"></a>
 
 First, install the dependencies. We recommend using `npm` for this project.
